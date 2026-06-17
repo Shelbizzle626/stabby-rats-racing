@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" role="img" aria-label="Rider photo placeholder">
+  <rect width="400" height="500" fill="#1b1d22"/>
+  <g fill="#121316">
+    <circle cx="200" cy="190" r="78"/>
+    <path d="M70 500 C 70 360 130 300 200 300 C 270 300 330 360 330 500 Z"/>
+  </g>
+  <text x="200" y="470" text-anchor="middle" fill="#9498A0" font-family="monospace" font-size="20" letter-spacing="3">PHOTO</text>
+</svg>
